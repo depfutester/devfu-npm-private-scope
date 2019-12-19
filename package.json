@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^2.1.2",
-    "@flowbyte/priv-package": "^1.0.0",
+    "@flowbyte/priv-package": "^1.0.3",
     "@flowbyte/priv-package-two": "^2.0.0"
   }
 }
